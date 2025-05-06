@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/doc2mk
+doc2mk.so
+doc2mk.dylib
+doc2mk.dll
+doc2mk.a
+doc2mk.lib
+doc2mk-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
