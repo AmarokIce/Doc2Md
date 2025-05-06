@@ -9,5 +9,5 @@
     },
     "description": "The simple programming to make your docx file to markdown.",
     "license": "MPL-2.0",
-    "name": "doc2mk"
+    "name": "doc2md"
 }

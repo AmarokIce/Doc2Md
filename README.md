@@ -1,4 +1,4 @@
-# Doc2Mk
+# Doc2Md
 
 The simple way to make your Word Docs to Markdown.  
 简单的让你的 Word 文档转到 Markdown。
@@ -18,7 +18,7 @@ And use the command:
 然后使用指令处理:
 
 ```shell
-./doc2mk.exe ./[your word docx name].docx
+./doc2md.exe ./[your word docx name].docx
 ```
 
 ## Build by your self for your OS 为你当前平台编译
